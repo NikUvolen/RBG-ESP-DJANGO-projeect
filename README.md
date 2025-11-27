@@ -8,6 +8,7 @@ API сервис для управления адресной светодиод
 
 ## Авторы
 
-- [@NikUvolen](hhttps://github.com/NikUvolen)
+- [Михаил Зинков @NikUvolen](https://github.com/NikUvolen)
+- [Егор Корешков @Fenex08](https://github.com/Fenex08)
 
 
